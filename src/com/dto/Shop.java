@@ -3,7 +3,7 @@ package com.dto;
 import java.util.Date;
 
 public class Shop {
-
+   //这是一个sss
 	private Integer id;
 	private String name;
 	private Double price;
